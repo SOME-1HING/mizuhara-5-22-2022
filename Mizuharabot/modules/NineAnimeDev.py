@@ -1,3 +1,5 @@
+# Credits to https://telegram.dog/ShalmonAnandMate
+
 from Mizuharabot import telethn
 from Mizuharabot.events import register
 from telethon import Button
